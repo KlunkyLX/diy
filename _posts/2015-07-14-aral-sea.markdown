@@ -24,6 +24,6 @@ I took the surface outlines of Aral Sea [from past 60 years](http://www.unep.org
 SVG template is here:
 ![3D Paper Model of Shrinking Aral Sea]({{site.baseurl}}/images/2015-07-14-aral-sea/aral-sea.svg "3D Paper Model of Shrinking Aral Sea")
 
-[Here is data visualization focused on Central Asia](http://www.grida.no/graphicslib/collection/central-asia-environment-and-development-graphics) which features the shrinking Aral Sea as well and provides more information on the region (thanks to Nickolaï).
+[Here is data visualization focused on Central Asia](http://www.grida.no/graphicslib/collection/central-asia-environment-and-development-graphics) which features the shrinking Aral Sea as well and provides more information on the region (thanks to Nickolaï). The original data and maps of the shrinking Aral Sea were prepared in late 1990s by the visualisation team of UNEP / GRID-Arendal in Norway in collaboration with KyrGIS cartographic laboratory in Bishkek, Kyrgyzstan
 
 
