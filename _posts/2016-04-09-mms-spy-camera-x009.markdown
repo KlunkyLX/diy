@@ -36,7 +36,7 @@ After then I send SMS with text `111` to the device and X009 replied with MMS wi
 
 After then I kept the device working to see for how long the large battery will last. As with the previous spy camera test I sent one or two `get photo SMS requests` per day.
 
-On day three I received no response after repeated attempt to obtain photo.
+On day three I received no response even after repeated attempt to obtain photo.
 On day four X009 replied successfully to my get photo request, but that was the last time I received any response from it.
 
 In subsequent days I did not managed to receive response from the device. On day 6 I gave up, detached battery from the device and measured battery voltage. When experiment started the large `4.000 mAh` lipo battery was fully charged (`4.18V`). After 5 days its voltage dropped to `4.12V` which means battery still kept cca 85% of its capacity.
