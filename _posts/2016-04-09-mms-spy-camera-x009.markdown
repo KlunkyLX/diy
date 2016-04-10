@@ -6,8 +6,8 @@ thumbnail: images/2016-04-09-mms-spy-camera-x009/01.jpg
 tags:
 - camera
 - mms
-- outdoor
 - spy
+- gprs
 ---
 
 Previous month I played with unbranded Chinese [MMS spy camera](https://petervojtek.github.io/diy/2016/03/10/mms-spy-camera.html), this time I tested similar device branded as X009. The principle is the same for both devices -- you send SMS message to the device and receive photo in MMS message (and there are plenty other features like microphone and video).
