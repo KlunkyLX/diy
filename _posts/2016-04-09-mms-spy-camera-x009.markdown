@@ -46,7 +46,7 @@ Apart from camera I tried few other X009 features:
 * The device can receive phone calls -- I was able to call it and listened in my smartphone to input from X009's microphone.
 * X009 is storing photos on SD card. The date and time set to photos does not seems to be correct (in my case year was 2013).
 * I tried phone callback feature - when SMS with text `888` is sent to device it will reply with `Sound function is opened. Decibel is 60`. When noise above 60dB is made, X009 should call my phone number and I should be able to listen to its microphone.
-Howeve no matter how much noise I made, the device made no phone call attempt.
+However no matter how much noise I made, the device made no phone call attempt.
 * When X009 has low battery and you send it a request request, device will reply with `Tracker battery is low` SMS.
 * I have not tried other features.
 
