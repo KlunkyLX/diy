@@ -10,3 +10,4 @@ I post some art--related content on [behance](https://www.behance.net/petervojte
 
 Here is my [github page](https://github.com/petervojtek) and here is my [linkedin profile](http://sk.linkedin.com/pub/peter-vojtek/12/9b9/197).
 
+![Soldering]({{site.baseurl}}/images/soldering.jpg)
