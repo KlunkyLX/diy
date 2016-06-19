@@ -26,7 +26,13 @@ Jedno z navrhovaných riešení tejto situácie je [základný príjem](https://
 
 ## Prax
 
-Asi pol roka pred odchodom zo zamestnania som začal vytvárať zoznam nápadov a činností, ktorými by som sa mohol _v čase osobného voľna_ venovať. Zoznam bol dosť dlhý a nebolo cieľom ho celý zrealizovať, ale naopak mať k dispozícii veľa možností z ktorých si môžem podľa nálady vyberať.
+Asi pol roka pred odchodom zo zamestnania som začal vytvárať zoznam nápadov a činností, ktorými by som sa mohol _v čase osobného voľna_ venovať. Zoznam bol dosť dlhý a nebolo cieľom ho celý zrealizovať, ale naopak mať k dispozícii veľa možností z ktorých si môžem podľa nálady vyberať, pretože:
+
+> Most people, when they are left free to fill their own time according to their own choice are at a loss to think of anything sufficiently pleasant to be worth doing. And whatever they decide on, they are troubled by the feeling that something else would have been pleasanter. To be able to fill leisure intelligently is the last product of civilisation, and at present very few people have reached this level. Moreover, the exercise of choice is in itself tiresome. Except to people with unusual initiative it is positively agreeable to be told what to do at each hour of the day, provided the orders are not too unpleasant. Most of the idle rich suffer unspeakable boredom as the price of their freedom from drudgery.
+
+-- [The Conquest of Happiness (Bertrand Russell)](http://russell-j.com/beginner/COH-TEXT.HTM)
+
+
 
 
 ### Niektoré z činností ktorým som sa venoval
@@ -100,6 +106,7 @@ Občas dostanem otázku, či sa venujem aj _niečomu serióznemu_. Zatiaľ čo d
 * [Walden](https://en.wikipedia.org/wiki/Walden), Henry David Thoreau
 * [The Abolition of Work](http://www.inspiracy.com/black/abolition/abolitionofwork.html)
 * [In Praise of Idleness (Bertrand Russell)](http://www.zpub.com/notes/idle.html)
+* [The Conquest of Happiness (Bertrand Russell)](http://russell-j.com/beginner/COH-TEXT.HTM)
 * [The Hacker Ethics](https://en.wikipedia.org/wiki/Hacker_ethic#The_hacker_ethics)
 
 
