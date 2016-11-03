@@ -17,6 +17,3 @@ Notice: This page will no longer evolve, you can find new posts on my [DIY blog]
 * [Karl Marx Cactus](https://plus.google.com/photos/109006268083420008872/albums/5760281916501825889?banner=pwa)
 * [Drop Watering with Raspberry Pi](https://github.com/petervojtek/diy/wiki/Kvapkov%C3%A9-zavla%C5%BEovanie) (in Slovak)
 
-
-
-[My Linkedin Profile](http://www.linkedin.com/pub/peter-vojtek/12/9b9/197)
