@@ -7,7 +7,7 @@ tags:
 - 2030
 ---
 
-I discovered an article named [8 predictions for the world in 2030](https://www.weforum.org/agenda/2016/11/8-predictions-for-the-world-in-2030) and here I am about to comment on the statements in the article. The ultimate goal of this blogpost written now in 2017 is to return to it in 2030, thus giving myself sort of feedback how wrong or right is my mental model today in 2017. 
+I discovered an article named [8 predictions for the world in 2030](https://www.weforum.org/agenda/2016/11/8-predictions-for-the-world-in-2030) and here I am about to comment on the statements in the article. The ultimate goal of this blogpost written now in 2017 is to return to it in 2030, thus giving myself sort of feedback how wrong or right was my mental model in 2017. 
 
 
 ##### I. All products will have become services.
