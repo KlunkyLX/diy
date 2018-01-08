@@ -9,7 +9,7 @@ github_username: petervojtek
 comments: true
 paginate: 10
 paginate_path: "/:num"
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 # Build settings
 markdown: kramdown
