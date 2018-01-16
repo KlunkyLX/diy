@@ -10,7 +10,7 @@ tags:
 
 # ابتثجحخدذرزسشصضطظعغفقكلمنـهوي
 
-In February 2015 I set a goal to learn [Modern Standard Arabic](https://en.wikipedia.org/wiki/Modern_Standard_Arabic) as a consumer, i.e., to gain the ability to **read and listen** in Arabic, **with no intention to speak or write**. I enjoy to learn things by myself, and despite plenty of recommendations on the web which advised me to find a teacher, I learn Arabic unsupervised.
+In February 2016 I set a goal to learn [Modern Standard Arabic](https://en.wikipedia.org/wiki/Modern_Standard_Arabic) as a consumer, i.e., to gain the ability to **read and listen** in Arabic, **with no intention to speak or write**. I enjoy to learn things by myself, and despite plenty of recommendations on the web which advised me to find a teacher, I learn Arabic unsupervised.
 
 I picked a learning method which is built around reading and listening to real texts/videos like newspaper articles or Aljazeera news, and I spend almost no time learning the grammar. The main idea of this approach is to mimick the way how an infant learns a language, assuming that those grammar rules which are important do emerge naturally from the consumed texts.
 
