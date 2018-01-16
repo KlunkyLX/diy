@@ -61,7 +61,7 @@ Here is part of article on Internation Space Station, a topic I am occasionally 
 When reading a text, I memorize new words using associations. 
 Finding good associations is challenging, but it can be fun, for example:
 
-* *Bribe* is رشوة (“rashua”), and there is a corruption-suspect politician in Slovakia who has surname Raši (“rashi”).
+* *Bribe* is رشوة (“rashua”), and there is a corruption-suspect politician in Slovakia who's surname is Raši (“rashi”).
 * *Against* is ضد (“d&ndash;dh”). The word is composed of two “D” letters, so these two D’s stand against each other.
 
 What helps a lot in the beginning is to know as many other languages as possible, to increase the likelihood that some new Arabic word will resonate by sounding similar to a word in other language and this is enough to trigger an association.
