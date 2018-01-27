@@ -119,3 +119,8 @@ It is possible to learn Arabic without a teacher. It took me two years, 30 minut
 It will take me at least one more year to understand spoken TV news properly. Currently I understand general context and lot of individual words, but I fail to recognize cca 30% of spoken words &ndash; this is mostly because they speak quite fast in the TV news.
 
 To learn to speak (and write) is completely different story and that is not my goal. I guess it doesn't makes much sense to learn to speak without a teacher, and presumably it is way more useful to learn to speak in some dialect than in Modern Standard Arabic.
+
+## Random Remarks
+
+* I learned how to say "Yes" in Arabic after more than 12 months since I began learning. Word "Yes" is not used in newspapers at all, it emerged for the first time only when I started watching TV.
+* Richard Stallman has interesting [method to learn new languages](https://stallman.org/rms-lifestyle.html) (scroll to section Learning languages)
